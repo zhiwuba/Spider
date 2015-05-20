@@ -12,4 +12,4 @@
 boost_1_57_0 提供智能指针
 crypto_5_60  提供加密
 libevent-2.0.22-stable 提供异步DNS解析
-mpir-2.7.0   提供大数的出库
+mpir-2.7.0   提供大数的处理
